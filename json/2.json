@@ -1,0 +1,2362 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "fl2O8NAQNxVXe_KIdwQSQNmhKpA",
+  "nextPageToken": "EAAajgFQVDpDR1FpRURJMlJrRTVOREl5UmpGQ1JESXpOellvQVVqb3A2MmlrZWVDQTFBQldrVWlRMmxLVVZSSFZsbFZla0pxVVZkME1WWkdRbmhTYXpFd1YyeEZlazU2YkhoYVJWWjBXVEphTkZSNlJsUmtiR2hxUldkM1NXbGlRMWx4ZDFsUmQwNUVOamxuU1NJ",
+  "prevPageToken": "EAEajgFQVDpDRElpRUVNelJUQXlRME5GTWpCQlEwTXlNVFlvQVVqb3A2MmlrZWVDQTFBQVdrVWlRMmxLVVZSSFZsbFZla0pxVVZkME1WWkdRbmhTYXpFd1YyeEZlazU2YkhoYVJWWjBXVEphTkZSNlJsUmtiR2hxUldkM1NXbGlRMWx4ZDFsUmQwNUVOamxuU1NJ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yb2Uk7V_ONxm3yo6q_Xxf4URDcU",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5DM0UwMkNDRTIwQUNDMjE2",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 46: Set Apart for God — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhdysn4m\n\nFr. Mike points out how blessing something sets it apart for the purposes of God, and it is no longer meant for ordinary uses. So when we are filled with the spirit of God, our daily task becomes extraordinary, because it is consecrated to God. Today's readings are Exodus 30-31, Leviticus 22, and Psalm 115.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yzxkuhov Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ye2a7tsz\n🔸Ascension Media: https://tinyurl.com/yfrk7k3g\n🔸The Great Adventure Bible: https://tinyurl.com/yfo6yqgk\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYClL-9IDGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYClL-9IDGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYClL-9IDGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UYClL-9IDGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UYClL-9IDGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UYClL-9IDGo"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "556W6hYH2XnRk-ZJmfbb2Sw1wHw",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5FRjZBRjlFMTZFQkZCNzE5",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 47: The Golden Calf — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ydvoy4t6\n\nIn today's reading from Exodus 32, Fr. Mike shows us how when we become uncertain, we immediate try to take control of the situation, and build up idols in our hearts. We also read Leviticus 23 and Psalm 79.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yeq5ejn7 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yzvbfrqc\n🔸Ascension Media: https://tinyurl.com/ygfy8gb9\n🔸The Great Adventure Bible: https://tinyurl.com/yfkjsyh8\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rCAaZjEWy34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rCAaZjEWy34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rCAaZjEWy34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rCAaZjEWy34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rCAaZjEWy34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rCAaZjEWy34"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nwRsshppJMk7SYHQNq2rq88SoW8",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy44MjZDNDYzQjgwQzkzQzkz",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 48: God's Presence — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfocdz4m\n\nFr. Mike reflects on God's presence to his people, and how that makes his chosen people distinct. Today's readings are Exodus 33-34, Leviticus 24, and Psalm 80.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yg6qn5s4 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yg8mjle8\n🔸Ascension Media: https://tinyurl.com/yfrqjboz\n🔸The Great Adventure Bible: https://tinyurl.com/ygh37jlp\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-LqhdCd_rjo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-LqhdCd_rjo"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JqYPXQLYGqy9LLCQZUcWS-PiriY",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5FRDc0QkQxMzlEMTZBMzg0",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 49: The Year of Jubilee — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfeo5x3f\n\nFr. Mike explains why God repeats some of his instructions for worship and lays out the purpose for the year of jubilee. The readings are Exodus 35-36, Leviticus 25, and Psalm 81.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjqphsdc Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yh3jvtoh\n🔸Ascension Media: https://tinyurl.com/yg5oclak\n🔸The Great Adventure Bible: https://tinyurl.com/yggxu248\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rG1InQh9tjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rG1InQh9tjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rG1InQh9tjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rG1InQh9tjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rG1InQh9tjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rG1InQh9tjg"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FNQ3CWbs4eAR6u1Dl8C96gNqrrs",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy45REM1NzQ1MDM2OUZDNDMx",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 50: Sacrificial Offerings — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yevnf979\n\nFr. Mike encourages us to look at how we can increase our generosity to God and neighbor, inspired by the sacrificial offerings of Israel. Our readings for today are Exodus 37-38, Leviticus 26, and Psalm 82.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ye49yrd8 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yhfxmkmc\n🔸Ascension Media: https://tinyurl.com/ygrekq23\n🔸The Great Adventure Bible: https://tinyurl.com/yfq4soya\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RsiztOG3g-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RsiztOG3g-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RsiztOG3g-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RsiztOG3g-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RsiztOG3g-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RsiztOG3g-E"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7WqhfSLyoLHfDf1WIHkzlzo3bLA",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5DMTA0RkI2RTNGNUQ0Njgw",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 51: Israel's Worship of God — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ye7c28lc\n\nAs we finish our reading of Exodus, Fr. Mike recaps the events of Israel and how God shaped his people in worship. Today's readings are Exodus 39-40, Leviticus 27, and Psalm 83.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjkn75w2 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yel2pgyt\n🔸Ascension Media: https://tinyurl.com/yeogv9lp\n🔸The Great Adventure Bible: https://tinyurl.com/yhvrd9bx\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/waXS43o9qa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/waXS43o9qa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/waXS43o9qa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/waXS43o9qa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/waXS43o9qa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 55,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "waXS43o9qa0"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BdpmXqVwEYbudIqZEIb_6b4O8p4",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xOEU5RDM3NEU4MzA4QzNE",
+      "snippet": {
+        "publishedAt": "2022-12-19T20:44:37Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Introduction to Desert Wanderings (with Jeff Cavins)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yffl8r24\n\nCongratulations, you've completed the Egypt & Exodus period and you've arrived at the Desert Wanderings! Jeff Cavins joins Fr. Mike to provide us the context for the book of Numbers and the book of Deuteronomy. They discuss how this period is marked by Israel's rebellion against God as they wander in the desert for forty years striving to regain their narrative and identity. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yzqctkb8 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yz98xjas\n🔸Ascension Media: https://tinyurl.com/yj3mey4t\n🔸The Great Adventure Bible: https://tinyurl.com/yel6sc83\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vobPC8MPi0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vobPC8MPi0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vobPC8MPi0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vobPC8MPi0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vobPC8MPi0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vobPC8MPi0Y"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jQwKdqvg-e5aF6GestHkOQIigtQ",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy45NkM5QURGMTI1Rjg4NDRC",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 52: Israel Continues to Journey — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: Day 52: Israel Continues to Journey\n\nFr. Mike kicks off our reading of the book of Numbers by explaining where Israel is at in their journey with the Lord, and how they are keeping him at the center of it all (literally). Today we read from Numbers 1, Deuteronomy 1, and Psalm 84.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yfta83wb Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yfysrm5a\n🔸Ascension Media: https://tinyurl.com/yheot7xh\n🔸The Great Adventure Bible: https://tinyurl.com/ygnolzqc\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgdtG9DM-wQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgdtG9DM-wQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgdtG9DM-wQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mgdtG9DM-wQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mgdtG9DM-wQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mgdtG9DM-wQ"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ir_D_8NxXHm-59atqW_nYlBbRTg",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5CMDU4Mjk2QjA2QTIwODZB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 53: The Twelve Tribes of Israel — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfvw2q2x\n\nFr. Mike talks about the twelve tribes of Israel and explains why the book of Numbers introduces them based on the number of decedents they each had. Today we read Numbers 2, Deuteronomy 2, and Psalm 85.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ydo7qf3k Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygvz8eps\n🔸Ascension Media: https://tinyurl.com/yzdzno75\n🔸The Great Adventure Bible: https://tinyurl.com/yhc8vm6c\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AYnxI_XyO00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AYnxI_XyO00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AYnxI_XyO00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AYnxI_XyO00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AYnxI_XyO00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AYnxI_XyO00"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j1LsYxTBNSnMIbouSwQTlRzY_Pk",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy44NEFDRUNBRDQwODFGNEU1",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 54: The Tribe of Levi — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yg9np7fd\n\nFr. Mike clarifies some questions surrounding the Tribe of Levi and talks about what it means to be held to a higher standard as a leader in your community. Numbers 3, Deuteronomy 3, and Psalm 87.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yftx2xyt Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yekrvarb\n🔸Ascension Media: https://tinyurl.com/yj6omqbx\n🔸The Great Adventure Bible: https://tinyurl.com/yhhsstmv\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/17Q3BIbfO8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/17Q3BIbfO8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/17Q3BIbfO8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/17Q3BIbfO8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/17Q3BIbfO8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "17Q3BIbfO8U"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ozWIN1Oni9GuRbdc9VubK8IlPcA",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5CNTQ4NEJFQThFNzg4Q0Qz",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 55: Obedience to God — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ye9x2orx\n\nFr. Mike underscores the importance of obeying God as he reads from Numbers 4 and Deuteronomy 4. We also read Psalm 88 and learn how it foreshadows the darkness Christ endured on the cross. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yj8kheo6 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yhjonz34\n🔸Ascension Media: https://tinyurl.com/yfustlf2\n🔸The Great Adventure Bible: https://tinyurl.com/ygbjjssj\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j7rpQ4Z9Yzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j7rpQ4Z9Yzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j7rpQ4Z9Yzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j7rpQ4Z9Yzw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j7rpQ4Z9Yzw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j7rpQ4Z9Yzw"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EzexfUlEr5rlbjxcYzWqCBweaf4",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy40MzQwRDA4N0ZGRTNBNTE2",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 56: Jealous Husbands — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan:https://tinyurl.com/yeclpsuq\n\nFr. Mike explains how God elevates the dignity of women by providing new laws around husbands accusing their wives of unfaithfulness. Today we read from Numbers 5, Deuteronomy 5, and Psalm 90. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ygbkypb8 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yf97uj48\n🔸Ascension Media: https://tinyurl.com/yztksh39\n🔸The Great Adventure Bible: https://tinyurl.com/yjr9cbfv\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oZsJMk7lmh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oZsJMk7lmh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZsJMk7lmh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oZsJMk7lmh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oZsJMk7lmh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oZsJMk7lmh8"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nJ94_kAqZfdqO4EM4gn3jimaQVk",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy41QUU4MjI2RjNBNjFENEY3",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 57: Hear, O Israel — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yk563u48\n\nFr. Mike explains the significance behind the Nazarite vow and the priestly blessing in Numbers 6. We also learn why the Great Command revealed in Deuteronomy 6 is the foundation of all other commandments. Today we pray Psalm 91. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yeg9xw9s Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yjofdmno\n🔸Ascension Media: https://tinyurl.com/ygwj8aov\n🔸The Great Adventure Bible: https://tinyurl.com/ydlrkhfr\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XmcXTuH0W4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XmcXTuH0W4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XmcXTuH0W4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XmcXTuH0W4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XmcXTuH0W4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XmcXTuH0W4M"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nrIXRJyE__OdinnGj5Wc0a2UOf8",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4zREM4MEQ5NkI0RDExOEYy",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 58: A Chosen People — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhv2pqxn\n\nFr. Mike breaks down the purpose of the various offerings during the dedication of the tabernacle. We are also reminded that the people of Israel are God's chosen people because they have a key mission. Today's readings are Numbers 7, Deuteronomy 7, and Psalm 92.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yekb4woj Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yh3lcb6m\n🔸Ascension Media: https://tinyurl.com/yjjvjmlp\n🔸The Great Adventure Bible: https://tinyurl.com/yfepzezk\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y6fknWuyLQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y6fknWuyLQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6fknWuyLQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y6fknWuyLQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y6fknWuyLQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y6fknWuyLQU"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0TRrC2G8PximB9VasJbSuib4xa4",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy41RTFEM0JFNjc4MDNBMzA5",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 59: Obligations to God — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yzsrh8ax\n\nAs we read Numbers 8-9, Deuteronomy 8, and Psalm 93, Fr. Mike reflects on how the Israelites were expected to celebrate Passover in all circumstances, learned to trust that God would lead them to where they needed to go, and needed to remember God in times of abundance as well as darkness.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yfz2tfxt Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygch9tru\n🔸Ascension Media: https://tinyurl.com/yhdryvsn\n🔸The Great Adventure Bible: https://tinyurl.com/yzyd3qfw\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5e8Tw2TL6CY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5e8Tw2TL6CY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5e8Tw2TL6CY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5e8Tw2TL6CY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5e8Tw2TL6CY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5e8Tw2TL6CY"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zVdrkYoIv9TZhPiSsduub9DVps4",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5GNEUwNzhEMDZFMDNDQTM1",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 60: Intercessory Prayer — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhwh952q\n\nFr. Mike makes note of how the tribes of Israel travel with Judah (praise) leading the way, and makes note of how Moses intercedes for the people and acts as a mediator between God and man. Today's readings are Numbers 10, Deuteronomy 9, and Psalm 10.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yftupyy7 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygalf8eo\n🔸Ascension Media: https://tinyurl.com/ye8yv4d5\n🔸The Great Adventure Bible: https://tinyurl.com/yj7mcrab\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnTpnBCISCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnTpnBCISCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnTpnBCISCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnTpnBCISCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnTpnBCISCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jnTpnBCISCU"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bBY12syKFiRsXN0TaUunrdTzsjg",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy44RDBENkUzRTI5QTNGMTI4",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 61: Complaining in the Desert — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhsmwmpq\n\nFr. Mike discusses how the Israelites complaining against God and believing they were better off in Egypt reflects our own inclination to be enslaved by sin. Today's readings are Numbers 11, Deuteronomy 10, and Psalm 33.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjhzqjds Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ye47lm35\n🔸Ascension Media: https://tinyurl.com/yj3s3cxb\n🔸The Great Adventure Bible: https://tinyurl.com/yhew9fc9\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1VjA7vISyac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1VjA7vISyac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1VjA7vISyac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1VjA7vISyac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1VjA7vISyac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1VjA7vISyac"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w0Cd1MwSQSXjUYael9w8zZxNxuE",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4wMkM3QkFEQzQ4QTU0MTNB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 62: Spies Sent to Canaan — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yjsyo5zt\n\nAs we read Numbers 12 and 13, Deuteronomy 11, and Psalm 94, Fr. Mike reflects on the conflict between Aaron, Miriam, and Moses and explains why Miriam appears to be the only one punished. He also mentions the lack of trust the people continue to have in God, as they discover that the land of Canaan is occupied by a seemingly stronger force.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yese9fln Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yfmsmufo\n🔸Ascension Media: https://tinyurl.com/ydr4hdku\n🔸The Great Adventure Bible: https://tinyurl.com/yz65u8ur\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UmoB_TfaWWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UmoB_TfaWWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UmoB_TfaWWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UmoB_TfaWWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UmoB_TfaWWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UmoB_TfaWWo"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r-AcRZcIzZ8jgEy3wwGKQprTg6E",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy42ODgwQ0RBNTY1OTRERDQy",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 63: Israel's Rebellion — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfdjztff\n\nIn our reading of Numbers 14 today, Fr. Mike highlights how the rebellion of the Israelites which was marked by distrust and fear, will have consequences for their children. We also read today Deuteronomy 12, and Psalm 95.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yh2fcq3h Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygp5sc9t\n🔸Ascension Media: https://tinyurl.com/yer9vk2l\n🔸The Great Adventure Bible: https://tinyurl.com/yf3ayflr\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0TIAYr9W5pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0TIAYr9W5pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0TIAYr9W5pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0TIAYr9W5pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0TIAYr9W5pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0TIAYr9W5pw"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VROyK9WUP3tgpgo6ifqvMufU28I",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy43RjgyNkZCNjkwMkZDMzcz",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 64: Consequences of Sin — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ygy6ysfp\n\nFr. Mike explains why God would give the Israelites such drastic consequences for their sin, and how it reveals his divine plan and infinite mercy. Today's readings are Numbers 15, Deuteronomy 13-14, and Psalm 96.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjplct5d Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygskfa9q\n🔸Ascension Media: https://tinyurl.com/ydwsw9ll\n🔸The Great Adventure Bible: https://tinyurl.com/yf6oldlo\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iPGFWwtLLv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iPGFWwtLLv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iPGFWwtLLv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iPGFWwtLLv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iPGFWwtLLv0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iPGFWwtLLv0"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZAhwDbJh9cdir45UOAqSqJ7LyL4",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5FRUEzOUYxQTE4OEIyMTI3",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 65: Revolt Against Moses — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfqanhr6\n\nFr. Mike dives into the recurring issue of the Israelites rebelling against God and remaining stuck in their past as we read about the revolt of Korah, Dathan and Abiram against Moses and Aaron. Today's readings are Numbers 16, Deuteronomy 15-16, and Psalm 97.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjvgopub Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygkp3wl7\n🔸Ascension Media: https://tinyurl.com/ygvtv3jr\n🔸The Great Adventure Bible: https://tinyurl.com/yepxvfqd\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ZxhfZw4644/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ZxhfZw4644/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZxhfZw4644/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ZxhfZw4644/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ZxhfZw4644/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_ZxhfZw4644"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kH1lxSs6vqrnnQxVJRfHpDFCpw0",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5GMzY4RDIwMjU1MkMwOTRB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 66: Forbidden Forms of Worship — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ygajne82\n\nFr. Mike discusses the forbidden forms of worship explained in Numbers 17, and why it's important for us to understand how God desired to be worshipped in the Old Testament. Today's readings are Numbers 17, Deuteronomy 17-18, and Psalm 98.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ye8x6a6g Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yhwfhat4\n🔸Ascension Media: https://tinyurl.com/yzj69fbe\n🔸The Great Adventure Bible: https://tinyurl.com/ydnsa963\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rn4UHDqh0F0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rn4UHDqh0F0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rn4UHDqh0F0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rn4UHDqh0F0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rn4UHDqh0F0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 71,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rn4UHDqh0F0"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zBKGdhPnghSc0sJjs_r_O-19XjA",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5FN0MwOEIwNDJFMDI5RDhB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 67: God's Justice and Refuge — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yjo69oph\n\nFr. Mike breaks down God's divine judgement, and the refuge he offers to those who are faithful to him. Today's readings are Numbers 18, Deuteronomy 19-20, and Psalm 99.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yzgy62hw Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yfwnvo2t\n🔸Ascension Media: https://tinyurl.com/yeje2rvh\n🔸The Great Adventure Bible: https://tinyurl.com/yf59z98s\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W3v2a1gQl0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W3v2a1gQl0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W3v2a1gQl0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W3v2a1gQl0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W3v2a1gQl0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W3v2a1gQl0Q"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A4N9A2VfDh2Axni7CjygLKkcoKE",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4yQUYyOTAwNjkwNDE5QjlE",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 68: The Waters of Meribah — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yf24tc4q\n\nFr. Mike describes the miracle of the waters of Meribah that God performs for his people in the wilderness. He also explains the logic behind the laws God gives his people to restore their morality as they learn to live in relationship with each other. Today we read Numbers 19-20, Deuteronomy 21, and Psalm 100.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhzf3njt Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yfcedpve\n🔸Ascension Media: https://tinyurl.com/yg557rfh\n🔸The Great Adventure Bible: https://tinyurl.com/ygoxn8ps\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/39lC9SgaHJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/39lC9SgaHJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/39lC9SgaHJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/39lC9SgaHJg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/39lC9SgaHJg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "39lC9SgaHJg"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "or6pzGaGTkG3AELmfw4sOm1gHFg",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy43OTZFNzk1NjVDNDVBRjZG",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 69: The Bronze Serpent — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yghatfkh\n\nFr. Mike explains how the bronze serpent is a prefiguration of Jesus on the Cross.  We also continue to learn how God's laws in Deuteronomy redefine the social and sexual norms for the Israelites to teach them about the dignity of every human person. Today's readings are Numbers 21, Deuteronomy 22, and Psalm 102.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yfgy4djo Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yjs2h8tl\n🔸Ascension Media: https://tinyurl.com/yzqpp6ss\n🔸The Great Adventure Bible: https://tinyurl.com/yh4tva7q\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IhUneF7QUKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IhUneF7QUKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IhUneF7QUKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IhUneF7QUKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IhUneF7QUKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IhUneF7QUKk"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BRPtXgTmURFVfz7zqLwJfysCaIQ",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xNUMzRTJBOEYwRTBDOTBD",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 70: The Offense of Balaam — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yemdym4g\n\nFr. Mike dives into the character of Balaam, and explains why his offense against God was so treacherous. Today's readings are Numbers 22, Deuteronomy 23, and Psalm 105.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ygz475wa Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yjmxgcym\n🔸Ascension Media: https://tinyurl.com/yzx4mfdk\n🔸The Great Adventure Bible: https://tinyurl.com/yjssrw8e\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTiFAPUE15A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTiFAPUE15A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTiFAPUE15A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTiFAPUE15A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTiFAPUE15A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 75,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YTiFAPUE15A"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6BCKKgpLGHjdEvFJLlUt9d1xj08",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy45QUZGQkMzMEZDNTZBREY3",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 71: The Source of the Law — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhqglof5\n\nFr. Mike shares more details surrounding the Old Testament laws, including why God would give us these laws in the first place. Today's readings are Numbers 23, Deuteronomy 24-25, and Psalm 106.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yg4krrr3 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yjfcfl37\n🔸Ascension Media: https://tinyurl.com/yewttw6e\n🔸The Great Adventure Bible: https://tinyurl.com/ye2yanph\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9baaLM4owkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9baaLM4owkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9baaLM4owkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9baaLM4owkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9baaLM4owkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 76,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9baaLM4owkY"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qX-upDRkzfyxqC3MuWgZj1VoCMI",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy40NjI5ODZCQUE5NkRBMDI0",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 72: The Plains of Moab — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yzbw95uj\n\nFr. Mike describes the sinful events of Israel in Moab, and why God chooses to bless the Israelites through Balaam in spite of their sin. Today's readings are Numbers 24-25, Deuteronomy 26, and Psalm 107.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhxcwn35 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ydmlbtry\n🔸Ascension Media: https://tinyurl.com/yjewkl8a\n🔸The Great Adventure Bible: https://tinyurl.com/ygn3f99h\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/86QY0R3QZ9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/86QY0R3QZ9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/86QY0R3QZ9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/86QY0R3QZ9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/86QY0R3QZ9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 77,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "86QY0R3QZ9c"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6Vqe3zruzkbVJOGqgdjZzePNmxA",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5BNEEyNDAyQThDNDA5MEU0",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 73: Inheritance of Land — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ydu8vu93\n\nFr. Mike explains why it was important to take a census at different points of the people of Israel in the Old Testament. We also learn that the Tribe of Levi is the only tribe that doesn't get an inheritance of land, because they're receiving something much greater. Today's readings are Numbers 26, Deuteronomy 27, and Psalm 111.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjv65m72 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yz9abpjx\n🔸Ascension Media: https://tinyurl.com/yfj4pqu5\n🔸The Great Adventure Bible: https://tinyurl.com/yh8xjnz7\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTEbxtb93Nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTEbxtb93Nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTEbxtb93Nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FTEbxtb93Nk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FTEbxtb93Nk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 78,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FTEbxtb93Nk"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AbqCyraydMXIutyEqk69bfS4s2k",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4wMjVEMzc2NzY2ODVBOERB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 74: Joshua Appointed — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhshtcyk\n\nFr. Mike discusses the inheritance given to Zelophehad's daughters. He also highlights the journey of Joshua as Moses' successor, and how Christ is the fulfillment of Joshua's leadership. Today's readings are Numbers 27-28, Deuteronomy 28, and Psalm 112.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ydnbs3vf Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yzmw9qsl\n🔸Ascension Media: https://tinyurl.com/yfc7mxjh\n🔸The Great Adventure Bible: https://tinyurl.com/ygnqvgdv\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E2xL_CqTPZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E2xL_CqTPZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E2xL_CqTPZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E2xL_CqTPZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E2xL_CqTPZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 79,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E2xL_CqTPZM"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D9whYuMaXFl_2Ppvj_iWxVSJZTg",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4yRjU0MzcwMkYwRkVDNDhC",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 75: The Keeping of Vows — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfwhrzzt\n\nFr. Mike gives us some background around the feast days of the Old Testament and emphasizes the importance of vows, which are serious promises made with God. Today's readings are Numbers 29-30, Deuteronomy 29, and Psalm 113.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhldlf6v Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yf53e3os\n🔸Ascension Media: https://tinyurl.com/yjm9j5vj\n🔸The Great Adventure Bible: https://tinyurl.com/ygw4x79o\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mk2jOHxEPhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mk2jOHxEPhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mk2jOHxEPhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mk2jOHxEPhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mk2jOHxEPhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 80,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mk2jOHxEPhI"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NvrHjlBZQJEhbbTMuYGX-CZmR-0",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5EQjk2Mzc4OTUzQTQ4NDlB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 76: War Against Midian — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yjlm75ku\n\nFr. Mike breaks down the battle against Midian and explains why God would allow destruction and warfare that can seem brutal. He also highlights how we can learn from Israel's weakness by destroying the things in our lives that lead us away from God. Today's readings are Numbers 31, Deuteronomy 30, and Psalm 116.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yemypfno Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ye8b28a7\n🔸Ascension Media: https://tinyurl.com/yhj2nyjb\n🔸The Great Adventure Bible: https://tinyurl.com/yhwqd8ws\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lFFqQFmWLmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lFFqQFmWLmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lFFqQFmWLmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lFFqQFmWLmY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lFFqQFmWLmY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lFFqQFmWLmY"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-pH5_3pzk0XbcLpHW8E7DWMoPvQ",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5BNEY4RDc0MzMyNDAyQjAx",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 77: God is Faithful — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yh8szyh3\n\nFr. Mike points out why it's important that the tribes of Reuben and Gad agree to fight in Numbers 32 and also reflects on how God knows that his people will be faithless, and yet He remains faithful to them. The readings are Numbers 32, Deuteronomy 31, and Psalm 117.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yzuobv55 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yebrkflg\n🔸Ascension Media: https://tinyurl.com/yhmj88uk\n🔸The Great Adventure Bible: https://tinyurl.com/yhtejt4c\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LknGGOf2Ge4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LknGGOf2Ge4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LknGGOf2Ge4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LknGGOf2Ge4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LknGGOf2Ge4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LknGGOf2Ge4"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9XTUk1CSdiKf0bO8IGVGmu5unlY",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy42MTk5OTRCREQ5RkNFODZF",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 78: The Song of Moses — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfy6rvwc\n\nIn today's readings, we trace the route of the Israelites in Numbers and hear the song of Moses in Deuteronomy. Fr. Mike reflects on a hard lesson from these passages; that God will allow us to choose something other than him, even though it hurts us. The readings are Numbers 33, Deuteronomy 32, and Psalm 118.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhhh2aef Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yzbvfp8g\n🔸Ascension Media: https://tinyurl.com/yj6ct72h\n🔸The Great Adventure Bible: https://tinyurl.com/ykxr9ltz\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1dXrYOBedk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1dXrYOBedk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1dXrYOBedk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E1dXrYOBedk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E1dXrYOBedk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 83,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E1dXrYOBedk"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4IXQL3hv-qu8Y1U555siRJGMSZI",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4yNDgyN0RCRjQ1QTUxRUMy",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 79: Psalms of Ascent — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yh6eul6u\n\nToday, Fr. Mike points out how the boundaries of the land of Canaan in Numbers remind us that the Promised Land is not a nice idea, but a real tangible place. He also reveals that Psalm 120 begins the Psalms of Ascent, or the Psalms that people would pray as they went up to the Temple to worship. The readings are Numbers 34, Deuteronomy 33, and Psalm 120. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ydp94yau Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yh3xorky\n🔸Ascension Media: https://tinyurl.com/ygynwpj8\n🔸The Great Adventure Bible: https://tinyurl.com/yen4n9or\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VHkF-YokdRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VHkF-YokdRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHkF-YokdRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VHkF-YokdRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VHkF-YokdRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 84,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VHkF-YokdRE"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J-c7raqJsxTDxlmeBjo9P5C3HAI",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy45NTBGQjA2RDUzMTJFM0VF",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 80: Cities of Refuge — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhagyppu\n\nAs we finish our journey through the Desert Wanderings, Fr. Mike zeroes in on the purpose of cities of refuge for the Israelites and the strong bond of community that they shared and maintained as the tribes grew. Today's readings are Numbers 35-36, Deuteronomy 34, and Psalm 121.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjd2ztrg Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yg2av3zc\n🔸Ascension Media: https://tinyurl.com/ydwodwgq\n🔸The Great Adventure Bible: https://tinyurl.com/yzwbsmdw\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MkrOjI8JEdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MkrOjI8JEdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MkrOjI8JEdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MkrOjI8JEdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MkrOjI8JEdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 85,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MkrOjI8JEdk"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UrCg12FP3ATeDVmSyGjXElHvlBM",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xQ0EyNTVGREQ1Nzk5MkVB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:32:50Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Introduction to Conquest & Judges (with Jeff Cavins) — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/y2qx8kt7\n\nCongratulations on completing the Desert Wanderings period! Jeff Cavins joins Fr. Mike to introduce the fifth biblical period, Conquest and Judges. They discuss the trials the Israelites face as they enter the Promised Land. We learn that the book of Joshua and the book of Judges are characterized by Israel's unfaithfulness, destruction, and repentance.  \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/y63ote5b Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/y45erqsk\n🔸Ascension Media: https://tinyurl.com/y42svndn\n🔸The Great Adventure Bible: https://tinyurl.com/y2gjxu7z\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F9_DTdEepsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F9_DTdEepsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F9_DTdEepsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F9_DTdEepsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F9_DTdEepsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 86,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "F9_DTdEepsQ"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p2ZJd_wg-JO8Bra-q93N5Gv6dEc",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xMUQ5ODk0Q0I0MjZBQjhG",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 81: Israel Crosses the Jordan — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yh8ea5pd\n\nAs we begin our reading of the book Joshua, Fr. Mike draws our attention to God's power as he parts the waters of the Jordan river, allowing the Israelites to walk across on dry land. We learn that following God often requires great courage and trust. Today's readings are Joshua 1-4, and Psalm 123.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yzua42df Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yep42raa\n🔸Ascension Media: https://tinyurl.com/ygks8b54\n🔸The Great Adventure Bible: https://tinyurl.com/yjvjt4e8\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6e_ec2fwcPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6e_ec2fwcPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6e_ec2fwcPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6e_ec2fwcPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6e_ec2fwcPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 87,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6e_ec2fwcPA"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zUBzn-zmqCMJOLE90cav0Ar6h3Y",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xQzNEQjU3NzFFNzQ1M0Q0",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 82: The Valley of Achor — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yjxdr9tr\n\nFr. Mike explains the meaning of circumcision for Israel's relationship with God. He also underscore the gravity of Achan's sin, and how the Valley of Achor symbolizes shame that is painful but not hopeless. Today we read Joshua 5-7 and Psalm 125. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/ydqvxwpt Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yz5wds2q\n🔸Ascension Media: https://tinyurl.com/yffqrtdv\n🔸The Great Adventure Bible: https://tinyurl.com/yh4mlq2x\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-UdZ6xWcWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-UdZ6xWcWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-UdZ6xWcWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-UdZ6xWcWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-UdZ6xWcWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 88,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D-UdZ6xWcWw"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YIL7mU2QQS5R9S1bJeUOvSlYlRs",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xNkVFQkQwQzlCOTczN0FG",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 83: The Gibeonite Trickery — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfsy2von\n\nFr. Mike expands on the significance of establishing a covenant relationship, and how the trickery of the Gibeonites can represent the desire to enter into a relationship with God out of fear rather than out of love. Today's readings are Joshua 8-9, and Psalm 126.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhgttscp Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yfxjmgum\n🔸Ascension Media: https://tinyurl.com/yzbbaa6q\n🔸The Great Adventure Bible: https://tinyurl.com/yj5pnpxr\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UM8fMnMckKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UM8fMnMckKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UM8fMnMckKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UM8fMnMckKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UM8fMnMckKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 89,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UM8fMnMckKM"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wcx8PP5E9RUtLhVnAxD0QD_kTvY",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xM0YyQUYxQTg5OTgyQ0Y5",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 84: The Sun Stands Still  — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ye5rfwvw\n\nFr. Mike offers us different ways we can interpret the miracle of the sun standing still in Joshua 10, and also reminds us that God always desires unity for us even though we often face war and division in this world. Today's readings are Joshua 10-11, and Psalm 128.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yfrn9tky Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yjj5ku9m\n🔸Ascension Media: https://tinyurl.com/ygtam366\n🔸The Great Adventure Bible: https://tinyurl.com/yj5eumt5\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8f0RhYsVK_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8f0RhYsVK_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8f0RhYsVK_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8f0RhYsVK_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8f0RhYsVK_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 90,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8f0RhYsVK_g"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eLa-5yotXTmTDk3wtn45Jh0RyXY",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4yQjdDRUQyQ0M0MEZCQkEx",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 85: Fighting for Each Other  — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yestz7gc\n\nAs we read about Joshua leading Israel into battle, Fr. Mike helps us comprehend the meaning behind all the destruction God commands. He emphasizes that God ultimately wants us to fight for each other and not against each other. Today's readings are Joshua 12-14 and Psalm 129.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God:https://tinyurl.com/yh5bdvon Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yzr77scp\n🔸Ascension Media: https://tinyurl.com/yemy6k9k\n🔸The Great Adventure Bible: https://tinyurl.com/yfgfk23l\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NO5cp8Podbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NO5cp8Podbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NO5cp8Podbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NO5cp8Podbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NO5cp8Podbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 91,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NO5cp8Podbk"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z5qRkfae2pUbBKG9dxkhmT4UlTE",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5FRkIzNkJFQkQ3RkUwOUY5",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 86: The Real Presence of God — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhpu6mf9\n\nFr. Mike reminds us that God is present with us in every step of our journey, even the seemingly mundane aspects. He also encourages us to not be discouraged on this journey, but to focus on relating to the historic stories of our biblical brothers and sisters. Today's readings are Joshua 15-18, and Psalm 130.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yg4ycpr7 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yef5zt65\n🔸Ascension Media: https://tinyurl.com/yest93jm\n🔸The Great Adventure Bible: https://tinyurl.com/yzkbk49a\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dn7ZZDtoy3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dn7ZZDtoy3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dn7ZZDtoy3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dn7ZZDtoy3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dn7ZZDtoy3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 92,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dn7ZZDtoy3w"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bK5RhBWAOvd4xvHf5DXMpYAgWfY",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy40M0Y4MEVDM0MxRTYxRERE",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 87: God Keeps His Promises — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖 Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yfckszal\n\nFr. Mike reminds us that God keeps his promises, even if it takes a little longer than we thought. Just like the people of Israel received everything the Lord had promised them, we too will receive everything the Lord has promised us, even in the midst of hardship and temptation. Today's readings are Joshua 19-21 and Psalm 131.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhauu5kc Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yex69cb8\n🔸Ascension Media: https://tinyurl.com/yzj3xrru\n🔸The Great Adventure Bible: https://tinyurl.com/yf8bdyzq\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WUIfEepNjOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WUIfEepNjOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WUIfEepNjOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WUIfEepNjOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WUIfEepNjOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WUIfEepNjOM"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zYmIJ9wYEvEF0tc5Le0cL8l_cng",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy44OEI3NUQ0QTlFM0FCOUU4",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 88: Joshua's Last Words to Israel — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yezueeq8\n\nFr. Mike focuses on the last words Joshua speaks to the people of Israel, and how he calls them to choose the Lord above all other things. We all have idols in our lives that take us away from God; how are we choosing to love Christ above these idols today? Today's readings are Joshua 22-24, and Psalm 132. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yz3hds94 Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yeppq2xx\n🔸Ascension Media: https://tinyurl.com/yfr2z4xq\n🔸The Great Adventure Bible: https://tinyurl.com/yzuvra35\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1-MxicO_rxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1-MxicO_rxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1-MxicO_rxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1-MxicO_rxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1-MxicO_rxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 94,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1-MxicO_rxY"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yioqt0wBTZMyUXlS5W51a4Ru4Uc",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy4xRUU4M0JFMUQ4QTA2MjVB",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 89: Israel's Cycle of Disobedience — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yh3qgc2g\n\nWelcome to the book of Judges! Fr. Mike foreshadows the events of Judges, and the cycle of disobedience we'll continue to see Israel go through. He also gives some context on the book of Ruth, and how we can find grace within the frustrating moments of Scripture. Today's readings are Judges 1-3, Ruth 1, and Psalm 133.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yfeumfee Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yekg9xkd\n🔸Ascension Media: https://tinyurl.com/yjgmhtun\n🔸The Great Adventure Bible: https://tinyurl.com/yjk3nnhj\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rb2MsstSMO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rb2MsstSMO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rb2MsstSMO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rb2MsstSMO4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rb2MsstSMO4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 95,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rb2MsstSMO4"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uXg6anvfb0JQLr3CL_RwyFNrS6Y",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy5FRkU3NjdFNDBDMjFBNTlF",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 90: Ruth and Boaz — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yhgsk7me\n\nFr. Mike highlights the life of Ruth, and what seems to be the first day of hope she's had in a long time. Sometimes it takes a long time to catch a glimmer of hope in the darkness of our lives, but Ruth reminds us that no matter what we've been through, God is always with us. Today's readings are Judges 4-5, Ruth 2, and Psalm 134.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yj5oe4ag Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/yjjf4box\n🔸Ascension Media: https://tinyurl.com/ygme6psd\n🔸The Great Adventure Bible: https://tinyurl.com/yfrwqbyc\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bcri3WzaxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bcri3WzaxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bcri3WzaxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1bcri3WzaxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1bcri3WzaxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1bcri3WzaxM"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v-lm4iNAnpy1Or8uE_HbG7kQl_c",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy45MTRCQjE3QzVGNDREODIz",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 91: Gideon's Story — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yjacepmm\n\nIn today's reading from Judges, Fr. Mike talk about Gideon's story, and points out how the people began to worship the object Gideon had created to glorify God, instead of worshipping the living God. In Ruth, he highlights the role of kinsman-redeemer and how Jesus is the ultimate fulfillment of that role. Today's readings are Judges 6-8, Ruth 3, and Psalm 135.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yhlgktyk Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygr27e7j\n🔸Ascension Media: https://tinyurl.com/yjo35x36\n🔸The Great Adventure Bible: https://tinyurl.com/yfwkqwdz\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSnBpMdFtj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSnBpMdFtj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSnBpMdFtj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RSnBpMdFtj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RSnBpMdFtj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RSnBpMdFtj4"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ABcSv2N4GaC84n9V3jVXuvt6pSg",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy41ODI2RjhGOTVBODI2NDE5",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 92: Jephthah's Vow — The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/ygahxk9k\n\nToday's readings are Judges 9-11, Ruth 4, and Psalm 137. In the reading from Judges, we hear about the rise and fall of Abimelech, as well as the misguided and heartbreaking vow Jephthah makes to God in return for victory over the Ammonites. We also conclude the book of Ruth with the marriage of Boaz and Ruth.\n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yh4ve23l Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ydr6q8rh\n🔸Ascension Media: https://tinyurl.com/yjs4xxpg\n🔸The Great Adventure Bible: https://tinyurl.com/yell6nlz\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h8yzcn23mvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h8yzcn23mvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h8yzcn23mvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h8yzcn23mvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h8yzcn23mvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h8yzcn23mvg"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x-XkaQHfRUkn8GkXntYKyEp6GX0",
+      "id": "UExlWFMwY0FrdVRQcUZNdFpRMzc5cWRFbWNmeE8xU3ZYYy43OTNDNTk0OUNGMDA1MUNG",
+      "snippet": {
+        "publishedAt": "2022-12-19T18:40:26Z",
+        "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+        "title": "Day 93: Strengths and Weaknesses— The Bible in a Year (with Fr. Mike Schmitz)",
+        "description": "📖  Follow along with the official Bible in a Year Reading Plan: https://tinyurl.com/yyxnlbaq\n\nToday, Fr. Mike begins to read Samson's story and points out that Samson, despite his physical strength, has a lot of weaknesses. The readings are Judges 12-15 and Psalm 146. \n\nWe hear everyday from our community how The Bible in a Year helps to capture hearts and souls for Christ. While we’re happy to make it free to our audience, it’s not free to create! It takes a significant investment to produce the podcast and distribute it free-of-cost to the public. You can make a gift of financial support to help defray these costs and enable us to keep bringing evangelizing digital media to all those searching for God: https://tinyurl.com/yjoyaeow Thank you for your support.\n\n—  MORE FROM ASCENSION  —\n\n🔸Ascension’s main website: https://tinyurl.com/ygd9mlfs\n🔸Ascension Media: https://tinyurl.com/y33a5fcc\n🔸The Great Adventure Bible: https://tinyurl.com/y4bf94ju\n\n—  SOCIAL MEDIA  —\n\n🔸Facebook: https://www.facebook.com/AscensionPress/\n🔸Twitter: http://twitter.com/AscensionPress\n🔸LinkedIn:  https://www.linkedin.com/company/ascension-press\n🔸Instagram: http://www.instagram.com/catholicfaithformation/\n🔸Subscribe: https://www.youtube.com/c/ascensionpresents\n\n—  BULLDOG CATHOLIC  —\n\n🔸YouTube: https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg\n🔸iTunes: https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jTp4hsgYYwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jTp4hsgYYwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jTp4hsgYYwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jTp4hsgYYwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jTp4hsgYYwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascension Presents",
+        "playlistId": "PLeXS0cAkuTPqFMtZQ379qdEmcfxO1SvXc",
+        "position": 99,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jTp4hsgYYwE"
+        },
+        "videoOwnerChannelTitle": "The Bible in a Year & More: Fr. Mike & Jeff Cavins",
+        "videoOwnerChannelId": "UCzUZD3iCxkHmwYkCqYn8fBw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 382,
+    "resultsPerPage": 50
+  }
+}
