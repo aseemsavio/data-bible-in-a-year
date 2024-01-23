@@ -1,16 +1,36 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+import json
+import os
+import re
 
 
-# Press the green button in the gutter to run the script.
+def extract_numeric_value(path):
+    """
+    Extracts the file name as a numerical value
+    :param path:
+    :return:
+    """
+    match = re.search(r'/(\d+)\.json$', path)
+    return int(match.group(1)) if match else 0
+
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    """
+    This script reads all the API response files from the YouTube API and puts it all in a single file.
+    This makes the importing of this data in Open Search easy.
+    """
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    json_files_location = "json"
+    directory = os.path.abspath(json_files_location)
+
+    paths = [f"{directory}/{file}" for file in os.listdir(json_files_location)]
+    sorted_paths = sorted(paths, key=extract_numeric_value)
+
+    master_list = []
+
+    for path in sorted_paths:
+        with open(path, "r") as file:
+            file_data = json.load(file)["items"]
+            master_list.extend(file_data)
+
+    with open("bible-in-a-year.json", "w") as json_file:
+        json.dump(master_list, json_file, indent=2)
